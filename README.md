@@ -63,7 +63,8 @@ SIMULADOR
 ![image](https://user-images.githubusercontent.com/105722861/169184955-3d24ddb1-b2de-4757-830f-f9770e0714e6.png)
 
 4. VIDEO
-5. CONCLUSIONES 
+https://www.youtube.com/watch?v=8QlJKcLIIjU
+6. CONCLUSIONES 
 •En el circuito mixto de la práctica la corriente que entró a las nodos 1 y 2 no se almacenaron, por el contrario, se distribuye por las ramas que conforman el nodo. Se evidencia que la corriente que sale del nodo "1" es IT y entra I1 e I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff.
 
 •La fuente de voltaje que se encarga de suministar energía se tiene que equilibrar con todo lo que se está perdiendo en las caídas de potencial. Las resistencias se encargan de absorber la energía y hace que la corriente se frene y a consecuencia de eso hay una caída de voltaje. Los 10 Volts de entrada se consumieron en el circuito.
